@@ -1,3 +1,6 @@
+# Touchfeature
+type touchfeature_device, dev_type;
+
 # Audio
 type sound_device, dev_type, mlstrustedobject;
 
